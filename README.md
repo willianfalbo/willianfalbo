@@ -9,5 +9,3 @@ I'm an experienced Full Stack developer, building scalable applications and codi
 [![React](https://aleen42.github.io/badges/src/react.svg)](https://github.com/aleen42/badges)
 [![Jest](https://aleen42.github.io/badges/src/jest_1.svg)](https://github.com/aleen42/badges)
 [![Amazon](https://aleen42.github.io/badges/src/amazon.svg)](https://github.com/aleen42/badges)
-[![Followers](https://img.shields.io/github/followers/willianfalbo?label=Followers&style=social)](https://github.com/willianfalbo?tab=followers)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   
